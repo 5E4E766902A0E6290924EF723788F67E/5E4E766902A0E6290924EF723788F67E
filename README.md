@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-5E4E766902A0E6290924EF723788F67E/5E4E766902A0E6290924EF723788F67E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sridhar / Sridhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
